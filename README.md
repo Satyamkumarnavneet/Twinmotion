@@ -130,14 +130,6 @@ mvn test
 
 ---
 
-##  Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
-
----
-
 ##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
