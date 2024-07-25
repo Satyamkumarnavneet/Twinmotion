@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Twinmotion</title>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/styles.css}">
+</head>
+<body>
+<div class="container">
+    <h1>Twinmotion</h1>
+    <form method="post" enctype="multipart/form-data" th:action="@{/upload}">
+        <label for="photo1">Upload Photo 1:</label>
+        <input type="file" id="photo1" name="photo1" accept="image/*" required>
+        <label for="photo2">Upload Photo 2:</label>
+        <input type="file" id="photo2" name="photo2" accept="image/*" required>
+        <button type="submit">Blend Photos</button>
+    </form>
+</div>
+</body>
+</html>

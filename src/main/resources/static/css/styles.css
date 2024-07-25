@@ -1,0 +1,27 @@
+.container {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+#animation-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    overflow: hidden;
+}
+
+#animated-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+}
