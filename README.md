@@ -62,28 +62,7 @@ Twinmotion is a web application designed to create seamless transitions between 
 
 ---
 
-## Repository Structure
 
-```sh
-├── backend/
-│   ├── app/
-│   │   ├── __init__.py
-│   │   ├── routes.py
-│   │   └── blend.py
-│   ├── uploads/
-│   ├── run.py
-│   └── requirements.txt
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── components/
-│   ├── package.json
-│   └── README.md
-└── README.md
-```
 ##  Getting Started
 
 ***Requirements***
