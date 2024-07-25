@@ -22,22 +22,6 @@
 </p>
 <hr>
 
-## Quick Links
-
-> - [Overview](#-overview)
-> - [Features](#-features)
-> - [Repository Structure](#-repository-structure)
-> - [Getting Started](#-getting-started)
->   - [Installation](#-installation)
->   - [Running Twinmotion](#-running-twinmotion)
->   - [Tests](#-tests)
-> - [Project Roadmap](#-project-roadmap)
-> - [Contributing](#-contributing)
-> - [License](#-license)
-> - [Acknowledgments](#-acknowledgments)
-
----
-
 ## Overview
 
 Twinmotion is a web application designed to create seamless transitions between two user-uploaded photos. It enables users to upload two images, blend them together, and animate the transition, providing an emotionally impactful experience by visualizing transformations such as aging.
@@ -152,5 +136,4 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ---
 
-[**Return**](#-quick-links)
 
