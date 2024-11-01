@@ -52,7 +52,7 @@ Twinmotion is a web application designed to create seamless transitions between 
 
 Ensure you have the following dependencies installed on your system:
 
-* **Java**: `version x.y.z`
+* **Java**: `21`
 
 ###  Installation
 
